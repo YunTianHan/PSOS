@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "201918010102_PSOS_FECode",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "201918010102_PSOS_FECode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-201918010102_PSOS_FECode-Debug-98d26f69a523187a3a6c.json",
+					"name" : "201918010102_PSOS_FECode",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/201918010102_PSOS_Code/201918010102_PSOS_Code/cmake-build-debug",
+		"source" : "C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/201918010102_PSOS_Code/201918010102_PSOS_Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

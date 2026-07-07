@@ -1,0 +1,3 @@
+F:/File Encryption/encrypt/cmake-build-debug/CMakeFiles/encryption_c.dir
+F:/File Encryption/encrypt/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/File Encryption/encrypt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

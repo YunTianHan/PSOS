@@ -1,0 +1,3 @@
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/05_OpenSSL/cmake-build-debug/CMakeFiles/05_OpenSSL.dir
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/05_OpenSSL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/05_OpenSSL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

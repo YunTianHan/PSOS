@@ -1,0 +1,3 @@
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/CW/cmake-build-debug/CMakeFiles/CW.dir
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/CW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/CW/cmake-build-debug/CMakeFiles/rebuild_cache.dir

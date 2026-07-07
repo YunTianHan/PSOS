@@ -1,0 +1,3 @@
+"D:\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\encryption_c.dir/objects.a
+D:\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\encryption_c.dir/objects.a @CMakeFiles\encryption_c.dir\objects1.rsp
+D:\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\encryption_c.dir/objects.a -Wl,--no-whole-archive -o encryption_c.exe -Wl,--out-implib,libencryption_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\encryption_c.dir\linklibs.rsp

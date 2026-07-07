@@ -1,0 +1,3 @@
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/202018010210_PSOS_code/cmake-build-debug/CMakeFiles/202018010210_PSOS_code.dir
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/202018010210_PSOS_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhoul/Desktop/HomeWork/PSOS/CW/202018010210_PSOS_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
